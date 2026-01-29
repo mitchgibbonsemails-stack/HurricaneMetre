@@ -16,3 +16,5 @@ New BSD License
 
 ## Credits
 mitch Gibbons - Resteasy
+
+Jan 29, 2026: Strike #001 complete at the Sliced Rock. The Bone is set."
