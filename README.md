@@ -1,5 +1,6 @@
 # Hurricane Mirror
-A brief description of the Hurricane Mirror project.
+universal alignment and zero
+Jan 29, 2026: Strike #001 complete at the Sliced Rock. The Bone is set."
 
 ## Installation
 1. Clone the repo: `git clone https:                                                
